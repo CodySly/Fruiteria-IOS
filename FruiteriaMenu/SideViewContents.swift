@@ -8,10 +8,6 @@
 import SwiftUI
 
 struct SideViewContents: View {
-    @State private var isAppetizerListViewActive = false
-    @State private var isPaletaListViewActive = false
-    @State private var isDrinkListViewActive = false
-    @State private var isSnackListViewActive = false
     @Binding var presentSideMenu: Bool
     var body: some View {
         ZStack {
@@ -44,7 +40,6 @@ struct SideViewContents: View {
                     HStack{
                         NavigationLink(
                             destination: AppetizerListView(),
-                            isActive: $isAppetizerListViewActive,
                             label: {
                                 Text("Ice Cream Menu")
                                     .font(.footnote)
@@ -67,7 +62,6 @@ struct SideViewContents: View {
                     HStack {
                         NavigationLink(
                             destination: PaletaListView(),
-                            isActive: $isPaletaListViewActive,
                             label: {
                                 Text("Paletas Flavors")
                                     .font(.footnote)
@@ -90,7 +84,6 @@ struct SideViewContents: View {
                     HStack {
                         NavigationLink(
                             destination: DrinkListView(),
-                            isActive: $isDrinkListViewActive,
                             label: {
                                 Text("Speciality Cup")
                                     .font(.footnote)
@@ -113,7 +106,6 @@ struct SideViewContents: View {
                     HStack {
                         NavigationLink(
                             destination: SnackListView(),
-                                isActive: $isSnackListViewActive,
                                 label: {
                                     Text("Traditional Snacks")
                                         .font(.footnote)

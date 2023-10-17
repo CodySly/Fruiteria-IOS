@@ -3,13 +3,6 @@ import SwiftUI
 struct HomePage: View {
      // Track the navigation state
     @State private var presentSideMenu = false
-    @State private var isAppetizerListActive = false
-    @State private var isDrinkListActive = false
-    @State private var isPaletaListActive = false
-    @State private var isSnackListActive = false
-    @State private var isOrderViewActive = false
-    @State private var isAboutUsActive = false
-    @State private var isLocationActive = false
     
     var body: some View {
             NavigationView {
@@ -88,7 +81,6 @@ struct HomePage: View {
                             
                             NavigationLink(
                                 destination: OrderView(),
-                                isActive: $isOrderViewActive,
                                 label: {
                                     Text("Order Now")
                                         .font(.footnote)
@@ -134,7 +126,6 @@ struct HomePage: View {
                         HStack{
                             NavigationLink(
                                 destination: AppetizerListView(),
-                                isActive: $isAppetizerListActive,
                                 label: {
                                     VStack{
                                         Image("mangochemoy")
@@ -152,7 +143,6 @@ struct HomePage: View {
                             )
                             NavigationLink(
                                 destination: PaletaListView(),
-                                isActive: $isPaletaListActive,
                                 label: {
                                     VStack{
                                         Image("lime 1")
@@ -170,7 +160,6 @@ struct HomePage: View {
                             )
                             NavigationLink(
                                 destination: DrinkListView(),
-                                isActive: $isDrinkListActive,
                                 label: {
                                     VStack{
                                         Image("mm")
@@ -188,7 +177,6 @@ struct HomePage: View {
                             )
                             NavigationLink(
                                 destination: SnackListView(),
-                                isActive: $isSnackListActive,
                                 label: {
                                     VStack{
                                         Image("queso-box")
@@ -214,7 +202,6 @@ struct HomePage: View {
                     HStack(spacing: 25){
                         NavigationLink(
                             destination: LocationView(),
-                            isActive: $isLocationActive,
                             label: {
                                 
                                 VStack {
@@ -244,7 +231,6 @@ struct HomePage: View {
                         }
                         NavigationLink(
                             destination: AboutUsView(),
-                            isActive: $isAboutUsActive,
                             label: {
                                 
                                 HStack{
