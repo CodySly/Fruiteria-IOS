@@ -54,11 +54,9 @@
       </ul>
     </li>
         <li><a href="#roadmap">Roadmap</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
+    <li><a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="">Setting Up Xcode on an iOS Device</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -146,7 +144,7 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 
 ### Setting Up Xcode on an iOS Device
 
-Before you can contribute to the Fruiteria iOS project, you need to have Xcode installed on your iOS device. Here are the steps to set it up:
+Before you can use or contribute to the Fruiteria iOS project, you need to have Xcode installed on your iOS device. Here are the steps to set it up:
 
 1. **Install Xcode**:
    - Visit the App Store on your iOS device.
@@ -206,6 +204,58 @@ Now that you have Xcode set up, you can clone the Fruiteria iOS repository and s
 That's it! You've successfully cloned the repository, made changes, and created a pull request to contribute to the Fruiteria iOS project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Installing a Test Version of the App on Your iPhone
+
+If you want to run the app on your own iPhone for testing or development purposes, follow these steps. This process is often referred to as "sideloading" the app onto your device.
+
+### Prerequisites
+
+- **Apple Developer Account**: To install an app on your iPhone, you need to have a free or paid Apple Developer Account. If you don't have one, you can sign up on the [Apple Developer website](https://developer.apple.com/account/).
+
+### Step 1: Set Up Xcode
+
+1. Open Xcode on your Mac.
+
+2. Ensure that your Xcode is configured with your Apple Developer account. To do this:
+
+   - Go to Xcode Preferences.
+   - Under the "Accounts" tab, click the "+" button and sign in with your Apple Developer account.
+
+### Step 2: Configure Your iPhone
+
+1. Connect your iPhone to your Mac using a USB cable.
+
+2. In Xcode, open your project by selecting the appropriate workspace or project file.
+
+3. Select your iPhone as the deployment target. To do this:
+
+   - Click on the device name in the top toolbar (e.g., "Generic iOS Device").
+   - Choose your iPhone from the list.
+
+### Step 3: Build and Install
+
+1. In Xcode, press the "Play" button (or use `Cmd+R`) to build and run the app on your iPhone. Xcode will compile the app and install it on your device.
+
+2. The app will appear on your iPhone's home screen, and you can launch it like any other app.
+
+### Step 4: Trust the Developer Certificate
+
+The first time you run the app on your device, you may encounter an "Untrusted Developer" error. To resolve this:
+
+1. On your iPhone, go to **Settings** > **General** > **Device Management** (or "Profiles & Device Management").
+
+2. Under the "Developer App" section, tap your Apple ID and trust the developer certificate associated with your account.
+
+### Step 5: Run the App
+
+You should now be able to run and test the app on your iPhone. Any changes you make in Xcode and re-run the app will be reflected on your device.
+
+Remember that you'll need to repeat these steps each time you update the app in Xcode or if you reinstall it after a certain period, as the developer certificate may expire.
+
+**Note**: This guide covers the basic steps for sideloading an app during development. To distribute the app to a wider audience, you would need to follow Apple's guidelines for App Store distribution or use TestFlight for beta testing.
+
 
 
 
