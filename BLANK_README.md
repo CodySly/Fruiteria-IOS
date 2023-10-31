@@ -106,7 +106,7 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 - [X] Bug Fixes
   - [X] Address any critical bugs reported by T&E users.
       
-- [ ] Version 1.1 (Currently haulted development)
+- [ ] Version 1.1 (Haulted development)
 
   - [ ] Add user registration and login.
   - [ ] Add products to cart.
@@ -116,7 +116,7 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 - [ ] Bug Fixes
   - [ ] Continuously address reported bugs and issues. 
   
-- [ ] Version 2.0 (Currently haulted development)
+- [ ] Version 2.0 (Haulted development)
       
   - [ ] Implement user profile managment.
   - [ ] Enhanced product Detail View.
