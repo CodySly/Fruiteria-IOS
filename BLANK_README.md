@@ -98,21 +98,43 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Version 1.0 (Current Verison)
-  - [x] Initial T&E release with basic functionality.
-  - [x] Display all production currently offered.
-  - [x] Viewable About Us page.
-  - [x] Current Fruiteria location via maps.
-- [x] Bug Fixes
-  - [x] Address any critical bugs reported by T&E users.
+- [X] Version 1.0 (Current Verison)
+
+  - [X] Initial T&E release with basic functionality.
+  - [X] Display all production currently offered.
+  - [X] Viewable About Us page.
+  - [X] Current Fruiteria location via maps.
+        
+- [X] Bug Fixes
+  - [X] Address any critical bugs reported by T&E users.
       
 - [ ] Version 1.1 (Currently haulted development)
+
   - [ ] Add user registration and login.
   - [ ] Add products to cart.
   - [ ] View order History and status.
   - [ ] Push notifications for updates and offers.
-- [ ] Feature 3
-    - [ ] Nested Feature
+        
+- [ ] Bug Fixes
+  - [ ] Continuously address reported bugs and issues. 
+  
+- [ ] Version 2.0 (Currently haulted development)
+      
+  - [ ] Implement user profile managment.
+  - [ ] Enhanced product Detail View.
+  - [ ] Secure payment processing methods via (Apple Pay)
+        
+- [ ] Bug Fixes
+  - [ ] Ensure app stability and address any new issues.
+
+- [ ] Version 3.0 (Future)
+      
+  - [ ] Implement real-time order tracking.
+  - [ ] Enhance security with biometric authentication.
+  - [ ] Implement social media sharing options for products.
+        
+- [ ] Bug Fixes
+  - [ ] Optimize the app for performance and responsiveness.
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
