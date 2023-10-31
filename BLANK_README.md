@@ -99,7 +99,7 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 - [X] Version 1.0 (Current Verison)
 
   - [X] Initial T&E release with basic functionality.
-  - [X] Display all production currently offered.
+  - [X] Display all products currently offered.
   - [X] Viewable About Us page.
   - [X] Current Fruiteria location via maps.
         
