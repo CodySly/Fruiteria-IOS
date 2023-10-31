@@ -23,30 +23,21 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/CodySly/Fruiteria-IOS">
-    <a href="https://github.com/CodySly/Fruiteria-IOS/assets/130408252/7bc9bb57-1496-49ea-a7d4-761faf05e5ac">Logo
   </a>
-
-<h3 align="center">project_title</h3>
+  
+  ![fruiteria-trans](https://github.com/CodySly/Fruiteria-IOS/assets/130408252/8fafb396-b691-4c9e-a5bb-da7fad28d951)
 
   <p align="center">
-    project_description
+    IOS Food App
+    <br />
     <br />
     <a href="https://github.com/CodySly/Fruiteria-IOS"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/CodySly/Fruiteria-IOS">View Demo</a>
-    ·
-    <a href="https://github.com/CodySly/Fruiteria-IOS">Report Bug</a>
-    ·
-    <a href="https://github.com/CodySly/Fruiteria-IOS">Request Feature</a>
   </p>
 </div>
 
@@ -83,10 +74,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiteria" ice cream shop. This app allows customers to explore a variety of products from two locations. Whether you're a developer looking to contribute or a user interested in using the app, you'll find all the information you need in this README.
+
+**Disclaimer this app at one time was to be a full production application. As I was taking the CS50x course I decided to talk to a friend of mine at the time owned "Fruiteria". I asked if I could create an app to provided an helping service to the company with customer confusion on products offered, by giving a description and prices. In the end I was looking to create a fully functional online ordering application for Fruiteria exclusively.
+
+  Due to unfortunate circumstances within the company themselves they have decided to go a different route and has put a hault to any further help or discussion on development of this application. I was not being paid nor did I create any contract with the applications development. My purpose was to use this as my Final project for the CS50x course as well as provided a friend with a helping service. For now any further progress on this app has been stopped as of 10/31/23. Currently the app is fuctional giving a image, price and name of each flavor of ice and other products offered by Fruiteria.
 
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,6 +91,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [![Swift][swift.org]][swift-url]
 * [![SwiftUI][swiftui.org]][swiftui-url]
+* [![xcode][xcode.com]][xcode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/CodySLy/Fruiteria-IOS.git
    ```
 3. Install NPM packages
    ```sh
@@ -224,22 +220,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 [swift.org]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/34528425-7395-4900-b4b5-2920bd5321b5
 [swift-url]: https://www.swift.org/documentation/
 [swiftui-url]: https://developer.apple.com/documentation/swiftui/
 [swiftui.org]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/b0816a30-d685-46f4-86e3-5523fe49d34a
+[xcode.com]: https://developer.apple.com/xcode/
+[xcode-url]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/6d0efb8c-f9cf-4210-b14a-9f6ec87b9562
+
+
+
+
+
+
 
