@@ -56,7 +56,7 @@
         <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="">Setting Up Xcode on an iOS Device</a></li>
+        <li><a href="#setting-up-xcode-on-an-iOS-device">Setting Up Xcode on an iOS Device</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
