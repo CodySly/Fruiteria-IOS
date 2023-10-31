@@ -98,13 +98,13 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Version 1.0 (Current Verison)
-  - [ ] Initial T&E release with basic functionality.
-  - [ ] Display all production currently offered.
-  - [ ] Viewable About Us page.
-  - [ ] Current Fruiteria location via maps.
-- [ ] Bug Fixes
-  - [ ] Address any critical bugs reported by T&E users.
+- [x] Version 1.0 (Current Verison)
+  - [x] Initial T&E release with basic functionality.
+  - [x] Display all production currently offered.
+  - [x] Viewable About Us page.
+  - [x] Current Fruiteria location via maps.
+- [x] Bug Fixes
+  - [x] Address any critical bugs reported by T&E users.
       
 - [ ] Version 1.1 (Currently haulted development)
   - [ ] Add user registration and login.
