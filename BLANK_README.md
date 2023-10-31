@@ -95,6 +95,18 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
+
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- GETTING STARTED -->
@@ -161,71 +173,6 @@ Now that you have Xcode set up, you can clone the Fruiteria iOS repository and s
 
 That's it! You've successfully cloned the repository, made changes, and created a pull request to contribute to the Fruiteria iOS project.
 
-
-## Getting Started
-
-### Setting Up Xcode on an iOS Device
-
-Before you can contribute to the Fruiteria iOS project, you need to have Xcode installed on your iOS device. Here are the steps to set it up:
-
-1. **Install Xcode**:
-   - Visit the App Store on your iOS device.
-   - Search for "Xcode" and click on the Xcode app.
-   - Tap the "Get" button to download and install Xcode.
-
-2. **Developer Account**:
-   - To access all the features and testing capabilities of Xcode, consider signing up for an [Apple Developer Account](https://developer.apple.com/).
-
-3. **Apple ID**:
-   - Ensure that you're signed in with your Apple ID on your iOS device.
-
-4. **Enable Developer Mode**:
-   - Open Xcode and sign in with your Apple ID.
-   - Go to Xcode Preferences > Accounts.
-   - Click the "+" button and add your Apple ID.
-   - Verify your account, and it should now be connected to Xcode.
-
-### Cloning the Repository to Contribute
-
-Now that you have Xcode set up, you can clone the Fruiteria iOS repository and start contributing. Here are the steps to clone the repository:
-
-1. **Fork the Repository**:
-   - Open your web browser and visit the [Fruiteria-IOS GitHub repository](https://github.com/CodySly/Fruiteria-IOS).
-   - Click the "Fork" button in the upper-right corner. This will create a copy of the repository in your GitHub account.
-
-2. **Clone the Forked Repository**:
-   - Open Xcode on your iOS device.
-   - Go to Source Control > Clone.
-   - In the "Clone Repository" dialog, enter the URL of your forked repository. It will be something like: `https://github.com/yourusername/Fruiteria-IOS.git`.
-   - Choose the local directory where you want to save the project.
-   - Click "Clone."
-
-3. **Create a New Branch**:
-   - Open the cloned project in Xcode.
-   - Go to Source Control > Create Branch.
-   - Name your branch and select the base branch you want to work on (usually "main" or "develop").
-
-4. **Make Changes**:
-   - Make the necessary code changes or additions in your branch.
-
-5. **Commit Changes**:
-   - Go to Source Control > Commit.
-   - Enter a commit message describing your changes and commit them.
-
-6. **Push Changes**:
-   - Go to Source Control > Push to push your changes to your forked repository on GitHub.
-
-7. **Create a Pull Request**:
-   - Visit your forked repository on GitHub.
-   - Click the "New Pull Request" button.
-   - Choose the base repository (the original Fruiteria-IOS repository) and the base branch (e.g., "main" or "develop").
-   - Choose your forked repository and the branch you made changes in.
-   - Provide a title and description for your pull request.
-   - Click "Create Pull Request."
-
-That's it! You've successfully cloned the repository, made changes, and created a pull request to contribute to the Fruiteria iOS project.
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -288,22 +235,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
