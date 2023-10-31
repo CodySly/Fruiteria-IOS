@@ -121,7 +121,7 @@ Before you can contribute to the Fruiteria iOS project, you need to have Xcode i
    - Click the "+" button and add your Apple ID.
    - Verify your account, and it should now be connected to Xcode.
 
-### Cloning the Repository to Contribute
+## Cloning the Repository to Contribute
 
 Now that you have Xcode set up, you can clone the Fruiteria iOS repository and start contributing. Here are the steps to clone the repository:
 
