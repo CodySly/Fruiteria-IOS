@@ -233,6 +233,56 @@ That's it! You've successfully cloned the repository, made changes, and created 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+The Fruiteria iOS app is designed to provide a seamless experience for customers who want to explore the products offered by the Fruiteria ice cream shop, place orders, and manage their accounts. Here's how to use the app effectively:
+
+### 1. Launch the App
+
+- Locate the Fruiteria app on your iOS device and tap to open it.
+
+### 2. Explore Products
+
+- Once you've chosen a location, you'll be presented with the product catalog specific to that Fruiteria store.
+- Browse through the list of products. You can tap on a product to view more details, including a description and price.
+
+### 3. Add Items to Your Cart
+
+- To add a product to your cart, tap the "Add to Cart" button on the product's detail page.
+- You can specify customization options if available (e.g., flavor, toppings, quantity).
+- The product will be added to your shopping cart.
+
+### 4. Registration and Login
+
+- If you're a first-time user or wish to access features like order history and special offers, you may need to register or log in to your account.
+- Follow the prompts to create an account or log in with your credentials.
+
+### 5. Manage Your Cart
+
+- To view your shopping cart, you can tap the cart icon located in the app's navigation bar.
+- Here, you can review the items in your cart, make changes, or proceed to checkout.
+
+### 6. Checkout and Payment
+
+- When you're ready to place your order, tap the "Checkout" button.
+- Follow the prompts to provide the necessary information for delivery or pickup.
+- Choose your preferred payment method and complete the checkout process securely.
+
+### 7. View Order History
+
+- After placing an order, you can access your order history and track the status of current orders from your account profile.
+- This is useful for reviewing past orders and monitoring the progress of orders in real-time.
+
+### 8. Notifications
+
+- The Fruiteria app may send you notifications for order updates and special offers. Ensure that you have notifications enabled to stay informed.
+
+### 9. Enjoy Your Fruiteria Experience
+
+- Sit back, relax, and enjoy your favorite Fruiteria products delivered to your doorstep or ready for pickup.
+
+The Fruiteria iOS app is designed for a convenient and delightful customer experience. If you encounter any issues or have questions, please refer to the "Contact" section in the README to get in touch with the app's support team.
+
+## Usage
+
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -285,9 +335,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Cody Sly - codysburgess@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/CodySly/Fruiteria-IOS](https://github.com/CodySly/Fruiteria-IOS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
