@@ -89,9 +89,9 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 
 ### Developed With
 
+* [![xcode][xcode.com]][xcode-url]
 * [![Swift][swift.org]][swift-url]
 * [![SwiftUI][swiftui.org]][swiftui-url]
-* [![xcode][xcode.com]][xcode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -384,8 +384,9 @@ Project Link: [https://github.com/CodySly/Fruiteria-IOS](https://github.com/Cody
 [swift-url]: https://www.swift.org/documentation/
 [swiftui-url]: https://developer.apple.com/documentation/swiftui/
 [swiftui.org]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/b0816a30-d685-46f4-86e3-5523fe49d34a
-[xcode.com]: https://developer.apple.com/xcode/
-[xcode-url]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/6d0efb8c-f9cf-4210-b14a-9f6ec87b9562
+[xcode.com]: https://github.com/CodySly/Fruiteria-IOS/assets/130408252/376ed129-6fd0-4088-bfc5-e4d1d58cd232
+[xcode-url]: https://developer.apple.com/xcode/
+ 
 
 
 
