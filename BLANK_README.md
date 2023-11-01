@@ -53,6 +53,7 @@
         <li><a href="#built-with">Developed With</a></li>
       </ul>
     </li>
+    <li><a href="#screenshots">Screenshots</a></li>
         <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#getting-started">Getting Started</a>
       <ul>
@@ -86,13 +87,18 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 
 
 
-### Built With
+### Developed With
 
 * [![Swift][swift.org]][swift-url]
 * [![SwiftUI][swiftui.org]][swiftui-url]
 * [![xcode][xcode.com]][xcode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ScreenShots -->
+## ScreenShots
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -264,6 +270,7 @@ Remember that you'll need to repeat these steps each time you update the app in 
 ## Usage
 
 The Fruiteria iOS app is designed to provide a seamless experience for customers who want to explore the products offered by the Fruiteria ice cream shop, place orders, and manage their accounts. Here's how to use the app effectively:
+  <br>** Some features of the app have not been implemented yet and will be in further Version of the app. Please refer to the [RoadMap](#roadmap) section to see what feature and version the app is currently on.</br>
 
 ### 1. Launch the App
 
