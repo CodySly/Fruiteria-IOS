@@ -50,7 +50,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Developed With</a></li>
       </ul>
     </li>
         <li><a href="#roadmap">Roadmap</a></li>
@@ -59,6 +59,7 @@
         <li><a href="#setting-up-xcode-on-an-iOS-device">Setting Up Xcode on an iOS Device</a></li>
       </ul>
     </li>
+    <li><a href="Cloning-the-Repository-to-Contribute>Cloing the Repository to Contribute</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -310,12 +311,6 @@ The Fruiteria iOS app is designed to provide a seamless experience for customers
 
 The Fruiteria iOS app is designed for a convenient and delightful customer experience. If you encounter any issues or have questions, please refer to the "Contact" section in the README to get in touch with the app's support team.
 
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -349,6 +344,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Cody Sly - codysburgess@gmail.com
+
+Discord - codysly
 
 Project Link: [https://github.com/CodySly/Fruiteria-IOS](https://github.com/CodySly/Fruiteria-IOS)
 
