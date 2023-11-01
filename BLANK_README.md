@@ -56,15 +56,15 @@
         <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#setting-up-xcode-on-an-iOS-device">Setting Up Xcode on an iOS Device</a></li>
+        <li><a href="#setting-up-xcode-on-an-ios-device">Setting Up Xcode on an iOS Device</a></li>
       </ul>
     </li>
-    <li><a href="Cloning-the-Repository-to-Contribute>Cloing the Repository to Contribute</a></li>
+    <li><a href="#cloning-the-repository-to-contribute">Cloing the Repository to Contribute</a></li>
+    <li><a href="#installing-a-test-version-of-the-app-on-your-iphone">Installing a Test Version of the App on your Iphone</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -350,18 +350,6 @@ Discord - codysly
 Project Link: [https://github.com/CodySly/Fruiteria-IOS](https://github.com/CodySly/Fruiteria-IOS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
