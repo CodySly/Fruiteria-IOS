@@ -98,7 +98,13 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 <!-- ScreenShots -->
 ## ScreenShots
 
+![Fruiteria-Homepage-Screenshot](https://github.com/CodySly/Fruiteria-IOS/assets/130408252/2a3386e0-192a-4883-b9c6-cde8684574ce)
 
+![Fruiteria-sidemenu-screenshot](https://github.com/CodySly/Fruiteria-IOS/assets/130408252/e847fab2-70c4-4ed7-85a1-38a5ba20b062)
+
+![Fruiteria-Ice-Cream-sceenshot](https://github.com/CodySly/Fruiteria-IOS/assets/130408252/9f0c1fa1-1fed-45c4-a8d3-198075416977)
+
+![Fruiteria-location-screenshot](https://github.com/CodySly/Fruiteria-IOS/assets/130408252/07872373-b34b-4a8a-bc60-ccfa125e3d3a)
 
 <!-- ROADMAP -->
 ## Roadmap
