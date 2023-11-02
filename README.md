@@ -99,7 +99,7 @@ Welcome to the Fruiteria iOS App, a mobile application designed for the "Fruiter
 <!-- Video Demo -->
 ## Video Demo
 
-URL: 
+URL: https://youtu.be/_6LwxOYuCG4
 
 <!-- ScreenShots -->
 ## ScreenShots
